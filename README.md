@@ -12,3 +12,4 @@ https://karthihaiselvan38-debug.github.io/front-end-development/registration%20f
 
 https://karthihaiselvan38-debug.github.io/front-end-development/gallary.html
 
+<img width="1894" height="403" alt="image" src="https://github.com/user-attachments/assets/d7cbcb47-2d5c-436d-9943-a1c890df0914" /> 
