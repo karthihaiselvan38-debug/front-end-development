@@ -18,5 +18,6 @@ https://karthihaiselvan38-debug.github.io/front-end-development/login.html
   <img width="494" height="640" alt="image" src="https://github.com/user-attachments/assets/b2f5f877-7b18-4430-8e5d-9abdd5dcd62d" />
   https://karthihaiselvan38-debug.github.io/front-end-development/landingpage.html
 <img width="1873" height="889" alt="image" src="https://github.com/user-attachments/assets/94ed0c23-8b4b-4f68-ad3e-fe84be66ac35" />
+ https://karthihaiselvan38-debug.github.io/front-end-development/navbar.html
+  <img width="1919" height="690" alt="image" src="https://github.com/user-attachments/assets/2411eaaf-5fe6-4ed2-a3e7-7e88f3b89fbb" />
 
-  
