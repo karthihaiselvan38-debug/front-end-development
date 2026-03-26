@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Validation</title>
+    <style>
+        body{
+            text-align: center;
+        }
+    </style>
+    <script>
+      function validateForm() {
+    let name = document.getElementById("name").value;
+    let email = document.getElementById("email").value;
+    let phone = document.getElementById("phone").value;
+    let emailPattern = /^[^\s]+@[^\s]+\.[a-z]{2,3}$/;
+    
+    if(name == "") { alert("Name cannot be empty"); return false; }
+    if(!email.match(emailPattern)) { alert("Enter valid Email"); return false; }
+    if(phone.length !== 10) { alert("Enter valid 10-digit phone number"); return false; }
+    
+    alert("Form Submitted Successfully");
+    return true;
+}
+
+    </script>
+</head>
+<body>
+
+<h2>Validation Form</h2>
+
+<form name="myForm" onsubmit="return validateForm()">
+    Name: <input type="text" name="name"><br><br>
+    Email: <input type="email" name="email"><br><br>
+    Phonenumber: <input type="phonenumber" name="phonenumber"><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
