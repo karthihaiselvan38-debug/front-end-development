@@ -27,4 +27,8 @@ https://karthihaiselvan38-debug.github.io/front-end-development/login.html
 https://karthihaiselvan38-debug.github.io/front-end-development/validation.html
 <img width="530" height="331" alt="Screenshot 2026-03-26 200408" src="https://github.com/user-attachments/assets/c739219b-fd25-4469-88c0-1629a480bd7a" />
 
+https://karthihaiselvan38-debug.github.io/front-end-development/time.html
+<img width="464" height="165" alt="Screenshot 2026-04-05 172515" src="https://github.com/user-attachments/assets/aaa81c3b-e101-4f28-add5-9fd8dbb4533b" />
+https://karthihaiselvan38-debug.github.io/front-end-development/to-do-list.html
+<img width="791" height="321" alt="Screenshot 2026-04-05 174205" src="https://github.com/user-attachments/assets/fe9a3aaf-6ffb-41a8-9645-4810d32c5da4" />
 
