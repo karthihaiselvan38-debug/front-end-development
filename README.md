@@ -32,3 +32,5 @@ https://karthihaiselvan38-debug.github.io/front-end-development/time.html
 https://karthihaiselvan38-debug.github.io/front-end-development/to-do-list.html
 <img width="791" height="321" alt="Screenshot 2026-04-05 174205" src="https://github.com/user-attachments/assets/fe9a3aaf-6ffb-41a8-9645-4810d32c5da4" />
 
+<img width="410" height="176" alt="image" src="https://github.com/user-attachments/assets/e19304a2-c62e-4cdd-8be0-46c8bfdff404" />
+https://karthihaiselvan38-debug.github.io/front-end-development/event.html
