@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Event Handling Example</title>
+</head>
+<body>
+
+    <h2>Event Handling in Front-End</h2>
+
+    <button id="btn">Click Me</button>
+    <p id="message"></p>
+
+    <script>
+        // Select button element
+        let button = document.getElementById("btn");
+
+        // Add event listener
+        button.addEventListener("click", function() {
+            document.getElementById("message").innerHTML =
+            "Button Clicked Successfully!";
+        });
+    </script>
+
+</body>
+</html>
