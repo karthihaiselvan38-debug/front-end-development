@@ -36,3 +36,5 @@ https://karthihaiselvan38-debug.github.io/front-end-development/event.html
 https://karthihaiselvan38-debug.github.io/front-end-development/imageslider.html
 <img width="799" height="585" alt="image" src="https://github.com/user-attachments/assets/8e9435e7-1d72-4b9d-97ce-2e61ce90cb2a" />
 
+https://karthihaiselvan38-debug.github.io/front-end-development/responsive.html
+<img width="1915" height="329" alt="image" src="https://github.com/user-attachments/assets/b0cdc925-a338-4a5d-99fe-978b19bbbd09" />
